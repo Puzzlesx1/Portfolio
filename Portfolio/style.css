@@ -76,7 +76,7 @@ header nav ul li a:hover {
 
 /* hero styling start */
 .hero {
-    background-image: url("../Images/Hero.jpg");
+    background-image: url("Images/Hero.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
@@ -163,15 +163,15 @@ header nav ul li a:hover {
     opacity: 1.0;
 }
 
-.horiseon {
+.DND {
     grid-column: 1/3;
     grid-row: span 2;
     background-position: top;
-    background-image: url("../Images/horiseon.png");
+    background-image: url("Images/DateNightD.png");
 }
 
 .tbd {
-    background-image: url("../Images/comingsoon.jpg");
+    background-image: url("Images/comingsoon.jpg");
     background-position: 25% 15%;
 }
 
@@ -180,6 +180,13 @@ header nav ul li a:hover {
     color: var(--main);
     padding: 10px;
     opacity: .5;
+}
+
+.horiseon {
+    grid-column: 1/1;
+    grid-row: span 1;
+    background-position: top;
+    background-image: url("Images/horiseon.png");
 }
 /* portfolio styling end */
 
