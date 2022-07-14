@@ -12,5 +12,5 @@ Overall this project was an eye opener and will be a project I hope to see grow 
 
 ## Site Image
 
-![Portfolio](/Portfolio/Images/portfolio.png)
+![Portfolio](assets/Images/portfolio.png)
 
