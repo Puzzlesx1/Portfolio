@@ -188,6 +188,13 @@ header nav ul li a:hover {
     background-position: top;
     background-image: url("Images/horiseon.png");
 }
+
+.weighIn {
+    grid-column: 2/2;
+    grid-row: span 1;
+    background-position: top;
+    background-image: url("Images/login.png");
+}
 /* portfolio styling end */
 
 /* contact info styling start */
